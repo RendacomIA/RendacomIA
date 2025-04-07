@@ -98,15 +98,12 @@
     <h2>Bônus Exclusivo:</h2>
     <ul>
       <li>Lista de comandos prontos para gerar imagens.</li>
-      <li>Grupo VIP com suporte e networking.</li>
-      <li>Atualizações futuras gratuitas.</li>
-    </ul>
   </div>
 
   <div class="section">
     <h2>Oferta Especial de Lançamento:</h2>
-    <p><strong>De R$ 97,00 por apenas R$ 29,90</strong></p>
-    <a href="#" class="btn">GARANTIR AGORA POR R$ 29,90</a>
+    <p><strong>De R$ 97,00 por apenas R$11,90</strong></p>
+    <a href="#" class="btn">GARANTIR AGORA POR R$ 11,90</a>
   </div>
 
   <div class="section garantia">
