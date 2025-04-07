@@ -105,10 +105,6 @@
     <p><strong>De R$ 97,00 por apenas R$11,90</strong></p>
     <a href="#" class="btn">GARANTIR AGORA POR R$ 11,90</a>
   </div>
-
-  <div class="section garantia">
-    <h2>Garantia Incondicional</h2>
-    <p>Você tem 7 dias para testar o conteúdo. Se não gostar, devolvemos 100% do seu dinheiro. Simples assim.</p>
   </div>
 </div>
 
